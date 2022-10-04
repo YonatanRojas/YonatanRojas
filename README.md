@@ -9,7 +9,7 @@
 en este apartado podras encontrar proyectos desde paginas de noticias hasta paginas con funcionalidades e interacciones como juegos, ojetos 3d entre otros.
 <hr>
 ### Insignias de formacion Alura Latam
-........
+[![insignia-1.png](https://i.postimg.cc/Pq7Sn3QR/insignia-1.png)](https://postimg.cc/SXW6WG56)
 
 ###  Lenguajes y herramientas 🛠
 
