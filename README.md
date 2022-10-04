@@ -10,7 +10,7 @@ en este apartado podras encontrar proyectos desde paginas de noticias hasta pagi
 <hr>
 ### Insignias de formacion Alura Latam
 
-![insignia-1.png](https://i.postimg.cc/Pq7Sn3QR/insignia-1.png)](https://postimg.cc/SXW6WG56)
+![insignia-1.png](https://i.postimg.cc/Pq7Sn3QR/insignia-1.png)
 
 ###  Lenguajes y herramientas 🛠
 
