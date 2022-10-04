@@ -17,7 +17,7 @@ en este apartado podras encontrar proyectos desde paginas de noticias hasta pagi
 ![ C ](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![ Python ](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![ JavaScript ](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![ Reaccionar ](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![ Angular ](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftawantawan1997.medium.com%2Fangular-%25E0%25B8%2584%25E0%25B8%25B7%25E0%25B8%25AD-%25E0%25B8%25AD%25E0%25B8%25B0%25E0%25B9%2584%25E0%25B8%25A3%25E0%25B8%2581%25E0%25B8%25B1%25E0%25B8%2599-cb24bbcc3e82&psig=AOvVaw3y1BVl4uwKrQ-iUuWq8mXc&ust=1664990666241000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLjOj-GLx_oCFQAAAAAdAAAAABAJ)
 ![ HTML5 ](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![ CSS3 ](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![ Descaro ](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
@@ -31,7 +31,7 @@ en este apartado podras encontrar proyectos desde paginas de noticias hasta pagi
 ![ GitLab ](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![ GitHub ](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![ Código VS ](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![ Eclipse-IDE ](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
+
 ![ Powershell ](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![ Ventanas ](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
