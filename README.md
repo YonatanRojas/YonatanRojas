@@ -1,4 +1,4 @@
-### <h2>Hi there, Soy Yonatan Alejandro Rojas<h2>👋
+### <h2>Hi there, Soy Yonatan Alejandro Rojas👋</h2>
 <hr>
 <img align="rigth" margin="50px 100px" alt="gif" src="https://acegif.com/wp-content/uploads/funny-anime-gif-14.gif" width="100px" heigth="100px" border-radius="10px">
 <h1>Welcome to my profile by Github</h1>
