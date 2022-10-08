@@ -23,7 +23,7 @@ en este apartado podras encontrar proyectos desde paginas de noticias hasta pagi
 ![ C# ](https://img.shields.io/badge/-C%23-blue)
 ![ Python ](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![ JavaScript ](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![ Angular ](https://img.shields.io/badge/-Angular-red)
+![ Angular ](https://img.shields.io/badge/-Angular-CC2927?style=flat-square&logo=angular&logoColor=ffffff)
 ![ HTML5 ](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![ CSS3 ](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![ Descaro ](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
