@@ -36,7 +36,7 @@ en este apartado podras encontrar proyectos desde paginas de noticias hasta pagi
 ![ GitLab ](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![ GitHub ](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![ Código VS ](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![ Linux ](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
+![ Linux ](https://img.shields.io/endpoint?url=<https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ALinux_logo.jpg&psig=AOvVaw3S0g1Bk_gucIXeNO0bdEBj&ust=1665342960589000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLCVzo6s0foCFQAAAAAdAAAAABAE>&style<STYLE>)
 ![ Powershell ](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![ Ventanas ](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
