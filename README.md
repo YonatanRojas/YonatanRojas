@@ -32,6 +32,7 @@ en este apartado podras encontrar proyectos desde paginas de noticias hasta pagi
 ![ Nodejs ](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![ Npm ](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![ Firebase ](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
+![ SQL ](http://img.shields.io/badge/-SQL-5391FE?style=flat-square&logo=sql&logoColor=ffffff)
 ![ Mysql ](https://img.shields.io/badge/-MYSQL-CC2927?style=flat-square&logo=mysql&logoColor=ffffff)
 ![ Git ](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![ GitLab ](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
