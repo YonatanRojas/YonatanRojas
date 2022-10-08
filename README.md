@@ -19,8 +19,8 @@ en este apartado podras encontrar proyectos desde paginas de noticias hasta pagi
 
 ###  Lenguajes y herramientas 🛠
 
-![ Java ](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![ C# ](http://img.shields.io/badge/-!C#!-5391FE?style=flat-square&logo=C&logoColor=ffffff)
+![ Java ](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=JAVA&logoColor=ffffff)
+![ C# ](https://img.shields.io/badge/-C%23-blue)
 ![ Python ](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![ JavaScript ](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![ Angular ](https://img.shields.io/badge/-Angular-CC2927?style=flat-square&logo=angular&logoColor=ffffff)
