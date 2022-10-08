@@ -8,6 +8,7 @@
 
 en este apartado podras encontrar proyectos desde paginas de noticias hasta paginas con funcionalidades e interacciones como juegos, ojetos 3d entre otros.
 <hr>
+
 ### Insignias de formacion Alura Latam
 
 ![insignia-1.png](https://i.postimg.cc/Pq7Sn3QR/insignia-1.png)
@@ -35,6 +36,7 @@ en este apartado podras encontrar proyectos desde paginas de noticias hasta pagi
 ![ GitLab ](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![ GitHub ](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![ Código VS ](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![ Linux ](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
 ![ Powershell ](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![ Ventanas ](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
