@@ -11,6 +11,7 @@ Welcome to my GitHub!
 I am a passionate programmer and computer engineering student based in Argentina. I love immersing myself in the world of programming and facing new challenges along the way. For me, constant learning is fundamental, and I am always excited to discover new technologies and improve my skills.
 
 In this repository, you will find a variety of projects that reflect my love of programming and my dedication to exploring different areas within the field of computer science. I am committed to developing innovative and efficient solutions, using the best practices and tools available. 
+
 Here you can find my contributions in various programming languages and technologies, such as C#, Python, JavaScript, among others. In addition, you will be able to explore my personal projects, collaborations and examples of my teamwork. If you have any questions, suggestions or just want to connect with me, feel free to contact me through the channels provided. 
 I am open to collaborations and always willing to learn from other talented developers. Thank you for visiting my profile and I hope you find something interesting in my repositories. 
 <hr>
